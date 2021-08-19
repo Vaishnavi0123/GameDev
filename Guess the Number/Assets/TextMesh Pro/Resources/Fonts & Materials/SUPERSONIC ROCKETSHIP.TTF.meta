@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 14b3f26316cf6664585f284ed4ee28d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Supersonic Rocketship
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f2748c02587de3449f5ab9e10add2b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
