@@ -9,4 +9,4 @@ Cana's Jungle Jump is a infite jumping game. The player has to jump from cloud t
 ### Spiritscape :ghost:
 Spiritscape is basically a clone of flappy bird except the sprites are new. This game was created to learn about 3rd party plugins for ads and social media plugin. The game has not been published on playstore yet and the plugins have not yet been integrated.
 
-<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Spiritscape/Screenshots/4.jpeg?raw=true" width="380" height="700">
+<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Spiritscape/Screenshots/4.jpeg?raw=true" width="350" height="700">
