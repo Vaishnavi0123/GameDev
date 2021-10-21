@@ -8,6 +8,6 @@ Playstore link : https://play.google.com/store/apps/details?id=com.CanaComics.Ca
 <img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Cana%20Jump/Screenshots/Screenshot_20210907-110214.png?raw=true" width="350" height="700">
 
 ### Spiritscape :ghost:
-Spiritscape is basically a clone of flappy bird except the sprites are new. This game was created to learn about 3rd party plugins for ads and social media plugin. The game has not been published on playstore yet and hence the plugins have not yet been integrated.
+Spiritscape is basically a clone of flappy bird except the sprites are new. This app has the feature thay allows the users to share their scores on various social media platforms.
 
 <img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Spiritscape/Screenshots/4.jpeg?raw=true" width="350" height="700">
