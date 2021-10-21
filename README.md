@@ -10,4 +10,4 @@ Playstore link : https://play.google.com/store/apps/details?id=com.CanaComics.Ca
 ### Spiritscape :ghost:
 Spiritscape is basically a clone of flappy bird except the sprites are new. This app has the feature thay allows the users to share their scores on various social media platforms.
 
-<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Spiritscape/Screenshots/4.jpeg?raw=true" width="350" height="700">
+
