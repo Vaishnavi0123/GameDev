@@ -6,7 +6,7 @@ Cana's Jungle Jump is an infite platform jumping game. The player has to jump fr
 [View on Playstore](https://play.google.com/store/apps/details?id=com.CanaComics.CanasJungleJump)
 
 <img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Cana%20Jump/Screenshots/Screenshot_20210907-110214.png?raw=true" width="200" height="400">
-<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Cana%20Jump/Screenshots/Screenshot_20210907-110214.png?raw=true" width="200" height="400">
+
 ### Spiritscape :ghost:
 Spiritscape is basically a clone of flappy bird except the sprites are new. This app has the feature thay allows the users to share their scores on various social media platforms.
 [View on Playstore](https://play.google.com/store/apps/details?id=com.CanaGames.Spiritscape)
