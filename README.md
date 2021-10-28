@@ -5,12 +5,13 @@ These projects were created for the purpose of learning unity and C#. :video_gam
 Cana's Jungle Jump is an infite platform jumping game. The player has to jump from cloud to cloud and collect icecreams and lives. The player has 3 lives in the beginning and dies whenever the player character hits the lightning cloud or when the player character could not keep up with the screen. The game has 3 levels of difficulty. The highscore is saved for each difficulty. Concepts like scene transition, coroutines, singleton were learnt through this project.
 [View on Playstore](https://play.google.com/store/apps/details?id=com.CanaComics.CanasJungleJump)
 
-<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Cana%20Jump/Screenshots/Screenshot_20210907-110214.png?raw=true" width="150" height="300">
+<img src="https://github.com/Vaishnavi0123/GameDev/blob/main/Cana%20Jump/Screenshots/Screenshot_20210907-110214.png?raw=true" width="250" height="400">
 
 ### Spiritscape :ghost:
 Spiritscape is basically a clone of flappy bird except the sprites are new. This app has the feature thay allows the users to share their scores on various social media platforms.
+[View on Playstore](https://play.google.com/store/apps/details?id=com.CanaGames.Spiritscape)
 
-<img src="https://github.com/Vaishnavi0123/GameDev/blob/b00723f28fc07405451bbccd645c1853e3ca36f4/Spiritscape/Screenshots/1.jpeg" width="350" height="700">
+<img src="https://github.com/Vaishnavi0123/GameDev/blob/b00723f28fc07405451bbccd645c1853e3ca36f4/Spiritscape/Screenshots/1.jpeg" width="250" height="400">
 
 
 
